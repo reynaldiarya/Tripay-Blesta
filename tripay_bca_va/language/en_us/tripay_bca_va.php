@@ -1,7 +1,7 @@
 <?php
 // Gateway name
-$lang['TripayBcaVa.name'] = "Tripay BCA VA";
-$lang['TripayBcaVa.description'] = "Payment gateway aggregator Indonesia. Accept payments with a choice of Virtual Account, QRIS, Indomaret, Alfamart, E-Wallet, E-Banking etc.";
+$lang['TripayBcaVa.name'] = "BCA VA";
+$lang['TripayBcaVa.description'] = "Payment gateway Tripay BCA Virtual Account. Accept payments with a choice of Virtual Account, QRIS, Indomaret, Alfamart, E-Wallet, E-Banking etc.";
 
 // Settings
 $lang['TripayBcaVa.merchant_code'] = "Merchant Code";
@@ -20,7 +20,7 @@ $lang['TripayBcaVa.active_period.14day'] = '14 Day';
 $lang['TripayBcaVa.active_period.30day'] = '30 Day';
 
 // Process form
-$lang['TripayBcaVa.buildprocess.submit'] = "Pay with Tripay BCA VA";
+$lang['TripayBcaVa.buildprocess.submit'] = "Pay with BCA VA";
 
 // Errors
 $lang['TripayBcaVa.!error.merchant_code.valid'] = "You must enter a valid Merchant Code.";

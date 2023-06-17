@@ -369,6 +369,8 @@ class TripayPermataVa extends NonmerchantGateway
 				$status = 'void';
 				$return_status = true;
 			}
+			$response = json_encode(['success' => true]);
+			echo $response;
 		}
 
 

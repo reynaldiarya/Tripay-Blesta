@@ -1,7 +1,7 @@
 <?php
 // Gateway name
-$lang['TripayCimbVa.name'] = "Tripay CIMB Niaga VA";
-$lang['TripayCimbVa.description'] = "Payment gateway aggregator Indonesia. Accept payments with a choice of Virtual Account, QRIS, Indomaret, Alfamart, E-Wallet, E-Banking etc.";
+$lang['TripayCimbVa.name'] = "CIMB Niaga VA";
+$lang['TripayCimbVa.description'] = "Payment gateway Tripay CIMB Niaga Virtual Account. Accept payments with a choice of Virtual Account, QRIS, Indomaret, Alfamart, E-Wallet, E-Banking etc.";
 
 // Settings
 $lang['TripayCimbVa.merchant_code'] = "Merchant Code";
@@ -20,7 +20,7 @@ $lang['TripayCimbVa.active_period.14day'] = '14 Day';
 $lang['TripayCimbVa.active_period.30day'] = '30 Day';
 
 // Process form
-$lang['TripayCimbVa.buildprocess.submit'] = "Pay with Tripay CIMB Niaga VA";
+$lang['TripayCimbVa.buildprocess.submit'] = "Pay with CIMB Niaga VA";
 
 // Errors
 $lang['TripayCimbVa.!error.merchant_code.valid'] = "You must enter a valid Merchant Code.";

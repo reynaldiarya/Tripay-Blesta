@@ -1,7 +1,7 @@
 <?php
 // Gateway name
-$lang['TripayPermataVa.name'] = "Tripay Permata VA";
-$lang['TripayPermataVa.description'] = "Payment gateway aggregator Indonesia. Accept payments with a choice of Virtual Account, QRIS, Indomaret, Alfamart, E-Wallet, E-Banking etc.";
+$lang['TripayPermataVa.name'] = "Permata VA";
+$lang['TripayPermataVa.description'] = "Payment gateway Tripay Permata Virtual Account. Accept payments with a choice of Virtual Account, QRIS, Indomaret, Alfamart, E-Wallet, E-Banking etc.";
 
 // Settings
 $lang['TripayPermataVa.merchant_code'] = "Merchant Code";
@@ -20,7 +20,7 @@ $lang['TripayPermataVa.active_period.14day'] = '14 Day';
 $lang['TripayPermataVa.active_period.30day'] = '30 Day';
 
 // Process form
-$lang['TripayPermataVa.buildprocess.submit'] = "Pay with Tripay Permata VA";
+$lang['TripayPermataVa.buildprocess.submit'] = "Pay with Permata VA";
 
 // Errors
 $lang['TripayPermataVa.!error.merchant_code.valid'] = "You must enter a valid Merchant Code.";

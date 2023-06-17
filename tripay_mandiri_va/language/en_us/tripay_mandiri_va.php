@@ -1,7 +1,7 @@
 <?php
 // Gateway name
-$lang['TripayMandiriVa.name'] = "Tripay Mandiri VA";
-$lang['TripayMandiriVa.description'] = "Payment gateway aggregator Indonesia. Accept payments with a choice of Virtual Account, QRIS, Indomaret, Alfamart, E-Wallet, E-Banking etc.";
+$lang['TripayMandiriVa.name'] = "Mandiri VA";
+$lang['TripayMandiriVa.description'] = "Payment gateway Tripay Mandiri Virtual Account. Accept payments with a choice of Virtual Account, QRIS, Indomaret, Alfamart, E-Wallet, E-Banking etc.";
 
 // Settings
 $lang['TripayMandiriVa.merchant_code'] = "Merchant Code";
@@ -20,7 +20,7 @@ $lang['TripayMandiriVa.active_period.14day'] = '14 Day';
 $lang['TripayMandiriVa.active_period.30day'] = '30 Day';
 
 // Process form
-$lang['TripayMandiriVa.buildprocess.submit'] = "Pay with Tripay Mandiri VA";
+$lang['TripayMandiriVa.buildprocess.submit'] = "Pay with Mandiri VA";
 
 // Errors
 $lang['TripayMandiriVa.!error.merchant_code.valid'] = "You must enter a valid Merchant Code.";

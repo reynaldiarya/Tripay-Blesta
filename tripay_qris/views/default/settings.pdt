@@ -1,0 +1,33 @@
+<ul>
+    <li>
+        <?php
+            $this->Form->label($this->_('TripayQris.merchant_code', true), 'merchant_code');
+            $this->Form->fieldText('merchant_code', (isset($meta['merchant_code']) ? $meta['merchant_code'] : null), ['id'=>'merchant_code']);
+        ?>
+    </li>
+    <li>
+        <?php
+            $this->Form->label($this->_('TripayQris.api_key', true), 'api_key');
+            $this->Form->fieldText('api_key', (isset($meta['api_key']) ? $meta['api_key'] : null), ['id'=>'api_key']);
+        ?>
+    </li>
+    <li>
+        <?php
+            $this->Form->label($this->_('TripayQris.private_key', true), 'private_key');
+            $this->Form->fieldText('private_key', (isset($meta['private_key']) ? $meta['private_key'] : null), ['id'=>'private_key']);
+        ?>
+    </li>
+    <li>
+        <?php
+            $this->Form->label($this->_('TripayQris.active_period', true), 'active_period');
+            $this->Form->fieldSelect('active_period', ($select_options ?? []), ($meta['active_period'] ?? null), ['id' => 'active_period']);
+        ?>
+    </li>
+    <li>
+        <?php
+            $this->Form->fieldCheckbox('dev_mode', 'true', ((isset($meta['dev_mode']) ? $meta['dev_mode'] : 'false') == 'true'), ['id'=>'dev_mode']);
+            $this->Form->label($this->_('TripayQris.dev_mode', true), 'dev_mode', ['class'=>'inline']);
+        ?>
+        <span class="tooltip"><?php $this->_('AppController.tooltip.text'); ?><div><?php $this->_('TripayQris.dev_mode_note'); ?></div></span>
+    </li>
+</ul>

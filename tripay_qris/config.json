@@ -1,0 +1,17 @@
+{
+	"version": "1.0.1",
+	"name": "TripayQris.name",
+	"description": "TripayQris.description",
+	"authors": [
+		{
+			"name": "Reynaldi Arya",
+			"url": "https://reynaldiab.com"
+		},
+		{
+			"name": "Hexahost",
+			"url": "https://hexahost.id"
+		}
+	],
+	"currencies": ["IDR"],
+	"signup_url": "https://tripay.co.id/register"
+}

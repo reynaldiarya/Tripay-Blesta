@@ -1,7 +1,7 @@
 <?php
 // Gateway name
-$lang['TripayBniVa.name'] = "Tripay BNI VA";
-$lang['TripayBniVa.description'] = "Payment gateway aggregator Indonesia. Accept payments with a choice of Virtual Account, QRIS, Indomaret, Alfamart, E-Wallet, E-Banking etc.";
+$lang['TripayBniVa.name'] = "BNI VA";
+$lang['TripayBniVa.description'] = "Payment gateway Tripay BNI Virtual Account. Accept payments with a choice of Virtual Account, QRIS, Indomaret, Alfamart, E-Wallet, E-Banking etc.";
 
 // Settings
 $lang['TripayBniVa.merchant_code'] = "Merchant Code";
@@ -20,7 +20,7 @@ $lang['TripayBniVa.active_period.14day'] = '14 Day';
 $lang['TripayBniVa.active_period.30day'] = '30 Day';
 
 // Process form
-$lang['TripayBniVa.buildprocess.submit'] = "Pay with Tripay BNI VA";
+$lang['TripayBniVa.buildprocess.submit'] = "Pay with BNI VA";
 
 // Errors
 $lang['TripayBniVa.!error.merchant_code.valid'] = "You must enter a valid Merchant Code.";

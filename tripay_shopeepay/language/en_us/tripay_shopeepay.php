@@ -1,7 +1,7 @@
 <?php
 // Gateway name
-$lang['TripayShopeepay.name'] = "Tripay Shopeepay";
-$lang['TripayShopeepay.description'] = "Payment gateway aggregator Indonesia. Accept payments with a choice of Virtual Account, QRIS, Indomaret, Alfamart, E-Wallet, E-Banking etc.";
+$lang['TripayShopeepay.name'] = "Shopeepay";
+$lang['TripayShopeepay.description'] = "Payment gateway Tripay ShopeePay. Accept payments with a choice of Virtual Account, QRIS, Indomaret, Alfamart, E-Wallet, E-Banking etc.";
 
 // Settings
 $lang['TripayShopeepay.merchant_code'] = "Merchant Code";
@@ -15,7 +15,7 @@ $lang['TripayShopeepay.active_period'] = "Active Period";
 $lang['TripayShopeepay.active_period.60minutes'] = '60 Minutes';
 
 // Process form
-$lang['TripayShopeepay.buildprocess.submit'] = "Pay with Tripay Shopeepay";
+$lang['TripayShopeepay.buildprocess.submit'] = "Pay with Shopeepay";
 
 // Errors
 $lang['TripayShopeepay.!error.merchant_code.valid'] = "You must enter a valid Merchant Code.";

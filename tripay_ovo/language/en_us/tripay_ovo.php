@@ -1,7 +1,7 @@
 <?php
 // Gateway name
-$lang['TripayOvo.name'] = "Tripay OVO";
-$lang['TripayOvo.description'] = "Payment gateway aggregator Indonesia. Accept payments with a choice of Virtual Account, QRIS, Indomaret, Alfamart, E-Wallet, E-Banking etc.";
+$lang['TripayOvo.name'] = "OVO";
+$lang['TripayOvo.description'] = "Payment gateway Tripay OVO. Accept payments with a choice of Virtual Account, QRIS, Indomaret, Alfamart, E-Wallet, E-Banking etc.";
 
 // Settings
 $lang['TripayOvo.merchant_code'] = "Merchant Code";
@@ -15,7 +15,7 @@ $lang['TripayOvo.active_period'] = "Active Period";
 $lang['TripayOvo.active_period.1day'] = '1 Day';
 
 // Process form
-$lang['TripayOvo.buildprocess.submit'] = "Pay with Tripay OVO";
+$lang['TripayOvo.buildprocess.submit'] = "Pay with OVO";
 
 // Errors
 $lang['TripayOvo.!error.merchant_code.valid'] = "You must enter a valid Merchant Code.";

@@ -1,7 +1,7 @@
 <?php
 // Gateway name
-$lang['TripayBriVa.name'] = "Tripay BRI VA";
-$lang['TripayBriVa.description'] = "Payment gateway aggregator Indonesia. Accept payments with a choice of Virtual Account, QRIS, Indomaret, Alfamart, E-Wallet, E-Banking etc.";
+$lang['TripayBriVa.name'] = "BRI VA";
+$lang['TripayBriVa.description'] = "Payment gateway Tripay BRI Virtual Account. Accept payments with a choice of Virtual Account, QRIS, Indomaret, Alfamart, E-Wallet, E-Banking etc.";
 
 // Settings
 $lang['TripayBriVa.merchant_code'] = "Merchant Code";
@@ -20,7 +20,7 @@ $lang['TripayBriVa.active_period.14day'] = '14 Day';
 $lang['TripayBriVa.active_period.30day'] = '30 Day';
 
 // Process form
-$lang['TripayBriVa.buildprocess.submit'] = "Pay with Tripay BRI VA";
+$lang['TripayBriVa.buildprocess.submit'] = "Pay with BRI VA";
 
 // Errors
 $lang['TripayBriVa.!error.merchant_code.valid'] = "You must enter a valid Merchant Code.";
